@@ -1,0 +1,8 @@
+backend/share/
+backend/bin/
+backend/include/
+backend/Lib/
+backend/Scripts/
+backend/lib/
+backend/vector_db_per_file_collection
+frontend/node_modules/
